@@ -1,0 +1,15 @@
+type: code
+custom_name: Predictable "random" password
+files:
+- name: src/Main.kt
+  visible: true
+  text: "import kotlin.random.Random\n\nfun generatePredictablePassword(seed: Int):\
+    \ String {\n    var randomPassword = \"\"\n    // write your code here\n\treturn\
+    \ randomPassword\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11806#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 20 Nov 2021 19:03:22 UTC
+record: -1
